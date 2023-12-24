@@ -39,19 +39,19 @@ where,
 The matrices required to solve the general equation are the following:
 
 $$
-M(q)=\left[\begin{array}{cc}(m 1+m 2) l 1^2+m 2 l 2^2+2 m 2 l 1 l 2 \cos (q 2) & m 2 l 2^2+m 2 l 1 l 2 \cos (q 2) \\\ m 2 l 2^2+m 2 l 1 l 2 \cos (q 2) & m 2 l 2^2\end{array}\right]
+M(q)=\left[\begin{array}{cc}(m_1+m_2) l_1^2+m_2 l_2^2+2 m_2 l_1 l_2 \cos (q_2) & m_2 l_2^2+m_2 l_1 l_2 \cos (q_2) \\\ m_2 l_2^2+m_2 l_1 l_2 \cos (q_2) & m_2 l_2^2\end{array}\right]
 $$
 
 $$
-C(q, \dot{q})=\left[\begin{array}{cc}-2 l 1 l 2 m 2 \sin (q 2) q 2^{\circ} & -l 1 l 2 m 2 \sin (q 2) q 2 \\\ l 1 l 2 m 2 \sin (q 2) q 2^{\cdot} & 0\end{array}\right]
+C(q, \dot{q})=\left[\begin{array}{cc}-2 l_1 l_2 m_2 \sin (q_2) q_2^{\circ} & -l_1 l_2 m_2 \sin (q_2) q_2 \\\ l_1 l_2 m_2 \sin (q_2) q_2^{\cdot} & 0\end{array}\right]
 $$
 
 $$
-\tau_g(q)=\left[\begin{array}{c}(m 1+m 2) g l 1 \sin (q 1)+m 2 g l 2 \sin (q 1+q 2) \\\ m 2 g l 2 \sin (q 1+q 2)\end{array}\right]
+\tau_g(q)=\left[\begin{array}{c}(m_1+m_2) g l_1 \sin (q_1)+m_2 g l_2 \sin (q_1+q_2) \\\ m_2 g l_2 \sin (q_1+q_2)\end{array}\right]
 $$
 
 $$
-K=\left[\begin{array}{cc}k 1 & 0 \\\ 0 & k 2\end{array}\right]
+K=\left[\begin{array}{cc}k_1 & 0 \\\ 0 & k_2\end{array}\right]
 $$
 
 $$
